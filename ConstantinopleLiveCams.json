@@ -5,10 +5,10 @@
     "title1": "ANADOLU HİSARI",
     "link1": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_anadolu_hisari.stream/playlist.m3u8",
     
-    "title2": "BAĞDAT CADDESİ 1",
+    "title2": "BAĞDAT CADDESİ 1(false)",
     "link2": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_bagdat_cad_1.stream/playlist.m3u8",
     
-    "title3": "BAĞDAT CADDESİ 2",
+    "title3": "BAĞDAT CADDESİ 2(false)",
     "link3": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_bagdat_cad_2.stream/playlist.m3u8",
     
     "title4": "BEYAZIT KULESİ!",
@@ -41,13 +41,13 @@
     "title13": "İSTİKLAL CADDESİ 2",
     "link13": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_istiklal_cad_2.stream/playlist.m3u8",
     
-    "title14": "KADIKÖY!",
+    "title14": "KADIKÖY",
     "link14": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_kadikoy.stream/playlist.m3u8",
     
     "title15": "KAPALI ÇARŞI",
     "link15": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_kapali_carsi.stream/playlist.m3u8",
     
-    "title16": "KARAKÖY!",
+    "title16": "KARAKÖY",
     "link16": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_karakoy.stream/playlist.m3u8",
     
     "title17": "KIZ KULESİ",
