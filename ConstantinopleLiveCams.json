@@ -3,7 +3,7 @@
     "linkStatus": "",
     
     "title1": "ANADOLU HİSARI",
-    "link1": "https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_anadolu_hisari.stream/playlist.m3u8",
+    "link1": "https://hls.ibb.gov.tr/ls/cam_turistik/b_anadoluhisari.stream/playlist.m3u8",
     
     "title2": "BAĞDAT CADDESİ 1(false)",
     "link2": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_bagdat_cad_1.stream/playlist.m3u8",
@@ -12,25 +12,25 @@
     "link3": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_bagdat_cad_2.stream/playlist.m3u8",
     
     "title4": "BEYAZIT KULESİ",
-    "link4": "https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_beyazit_kule_1.stream/playlist.m3u8",
+    "link4": "https://hls.ibb.gov.tr/ls/cam_turistik/b_beyazitkule.stream/playlist.m3u8",
     
     "title5": "BEYAZIT MEYDANI",
-    "link5": "https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_beyazit_meydan.stream/playlist.m3u8",
+    "link5": "https://hls.ibb.gov.tr/ls/cam_turistik/b_beyazitmeydani.stream/playlist.m3u8",
     
     "title6": "BÜYÜK ÇAMLICA",
-    "link6": "https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_buyuk_camlica.stream/playlist.m3u8",
+    "link6": "https://hls.ibb.gov.tr/ls/cam_turistik/b_buyukcaml%C4%B1ca.stream/playlist.m3u8",
     
     "title7": "DRAGOS",
-    "link7": "https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_dragos.stream/playlist.m3u8",
+    "link7": "https://hls.ibb.gov.tr/ls/cam_turistik/b_dragos.stream/playlist.m3u8",
     
     "title8": "EMİNÖNÜ",
-    "link8": "https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_eminonu.stream/playlist.m3u8",
+    "link8": "https://hls.ibb.gov.tr/ls/cam_turistik/b_eminonu.stream/playlist.m3u8",
     
     "title9": "EMİRGAN",
     "link9": "https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_emirgan.stream/playlist.m3u8",
     
     "title10": "EYÜP SULTAN",
-    "link10": "https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_eyup.stream/playlist.m3u8",
+    "link10": "https://hls.ibb.gov.tr/ls/cam_turistik/b_eyupsultan.stream/playlist.m3u8",
     
     "title11": "HİDİV KASRI",
     "link11": "https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_hidiv_kasri_1.stream/playlist.m3u8",
